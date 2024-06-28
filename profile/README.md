@@ -38,6 +38,7 @@ Discover our development workflow, tools, and best practices that ensure the hig
 
 ## 📫 Get in Touch
 - **Email:** devesloops@gmail.com
+- **LinkedIn:** [Devesloops](https://linkedin.com/company/devesloops)
 - **Instagram:** [Devesloops](https://instagram.com/devesloops)
 
 Join us on our journey to innovate and excel in the world of web development. Explore our repositories, learn from our tutorials, and collaborate with us on GitHub!
